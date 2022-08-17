@@ -34,7 +34,7 @@ They will involve significant thought and reflection beyond the provided resourc
 
 1. Matrix structural analysis
   - [Assignment](https://buffalo.box.com/s/f4vufkhjw9uwdk91y6g4zl7q4l4115zt)
-  - [Video resources]{https://youtube.com/playlist?list=PLpga5O1JlQp-QUSP-uOIahlVZ2e5aSHPz}
+  - [Video resources](https://youtube.com/playlist?list=PLpga5O1JlQp-QUSP-uOIahlVZ2e5aSHPz)
 2. The structure of mechanics problems (Tonti diagram)
   - [Assignment](https://buffalo.box.com/s/vh364ar3sp0dmalyzyruh4v4gc1wdhal)
   - [Video resources](https://youtube.com/playlist?list=PLpga5O1JlQp9cilXNlun5CYEV4h0RC5qy)
