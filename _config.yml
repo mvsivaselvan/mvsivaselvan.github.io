@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:mvs@buffalo.edu"}
   - {title: Github, icon: github, url: "https://github.com/mvsivaselvan"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/mvsivaselvan/"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/channel/UCKKCk5vZQdp986KHgt6LQ8w"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
