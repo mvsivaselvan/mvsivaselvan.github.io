@@ -28,8 +28,11 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+url: https://mvsivaselvan.github.io
+
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
  
 # Google analytics
 google_analytics: G-7GJFSM8WV0
