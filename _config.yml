@@ -30,3 +30,7 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+# Google analytics
+google_analytics: G-7GJFSM8WV0
+
